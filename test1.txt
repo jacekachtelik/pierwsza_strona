@@ -1,0 +1,1 @@
+Drugi plik na potrzeby testu git-a

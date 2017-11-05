@@ -1,0 +1,3 @@
+Testowy plik na potrzeby Git-a
+Pierwsza zmiana pliku na potrzeby git-a.
+jakieś kolejne zmiany
